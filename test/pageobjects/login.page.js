@@ -11,8 +11,7 @@ class LoginPage extends Page {
     get inputUsername () {
         return $('#username');
     }
-
-    get inputPassword () {
+     get inputPassword () {
         return $('#password');
     }
 
