@@ -7,6 +7,17 @@ describe('Web application', async () => {
         console.log(await browser.getTitle());
 
         await expect(browser).toHaveTitleContaining("Tailored Support for Product Development | Twinmo Services")
+    
+    
+        
+    
+    
+    
+    
+    
+    
     });
+
+
 });
   
